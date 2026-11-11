@@ -30,12 +30,3 @@ Each mod needs the [BepInEx Pack for Survival Log](https://www.nexusmods.com/sur
 ## Bugs and ideas
 
 Open an issue in the repo of the mod, or post on its mod page. For a bug, add your game version and the log file: `BepInEx\LogOutput.log` in the game folder.
-
-## More mods by ivmakk
-
-- [Project Zomboid](https://github.com/ivmakk-pz)
-- [The Last Stand: Aftermath](https://github.com/ivmakk-tlsa)
-- [Nomad Drive](https://github.com/ivmakk-nd)
-- [The Last Plague: Blight](https://github.com/ivmakk-tlpb)
-- [Permafrost](https://github.com/ivmakk-pf)
-- [All my mods on Nexus Mods](https://www.nexusmods.com/profile/ivmakk0/mods)
